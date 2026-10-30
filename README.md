@@ -1,94 +1,121 @@
-## Hi there 👋
+<!-- Banner -->
+<div align="center">
 
-<!--# Hi, I'm Mulatu Jaleta 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Mulatu%20Jaleta&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Mulatu Jaleta banner" />
 
-An enthusiastic **Software Engineering Student** and **Full-Stack Developer** passionate about building modern web applications, distributed architectures, and intelligent software systems.
+<a href="https://github.com/mulatumuler82-ui">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+MERN+%26+TypeScript;Building+distributed+systems+and+AI-driven+tools;Clean+architecture.+Continuous+learning." alt="Typing animation" />
+</a>
 
----
+<br/>
 
-### 🌐 About Me
+![Profile views](https://komarev.com/ghpvc/?username=mulatumuler82-ui&label=Profile%20views&color=1f6feb&style=flat-square)
+![Followers](https://img.shields.io/github/followers/mulatumuler82-ui?label=Followers&style=flat-square&color=8957e5)
+![Location](https://img.shields.io/badge/Location-Ethiopia-2ea043?style=flat-square)
 
-* 🎓 Final-year **Software Engineering** student at Injibara University.
-* 💻 Core focus: **MERN Stack**, **TypeScript**, **Python**, and **Distributed Systems**.
-* 🚀 Building modern web platforms, notes applications, and AI-driven security tools.
-* ⚡ Tech Stack: Dark theme aesthetic, clean code, and modular system design.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-#### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### **DevOps, Tools & Virtualization**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-### 🚀 Key Projects
+## 👨‍💻 About Me
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Personal Engineering Portfolio](https://github.com/mulatumuler82-ui)** | Full-stack personal portfolio landing page with dark theme UI | React, TypeScript, Tailwind CSS, Express, MongoDB |
-| **[Distributed Banking System](https://github.com/mulatumuler82-ui)** | Distributed banking architecture using stub-skeleton remote calls | Java RMI, Python RPC, Socket Programming |
-| **[AI Network Intrusion Detection](https://github.com/mulatumuler82-ui)** | Intelligent packet analysis for network threat detection | Scapy, Scikit-learn, FastAPI, NSL-KDD |
-| **[Mobile Notes Application](https://github.com/mulatumuler82-ui)** | Modern, cross-platform mobile note-taking application | React Native, Expo Router, TypeScript |
-| **[Virtualized Mini Data Center](https://github.com/mulatumuler82-ui)** | Server infrastructure with containerized hosting & storage | Ubuntu Server, Docker, MySQL, LVM, Cockpit |
+I'm a final-year **Software Engineering** student at **Injibara University** who loves turning ideas into clean, scalable software.
+
+- 🚀 Building modern web platforms, mobile apps, and AI-driven security tools
+- 🧠 Core focus: **MERN Stack**, **TypeScript**, **Python**, and **Distributed Systems**
+- 🏗️ I care about modular design, readable code, and dark-mode-first interfaces
+- 🌱 Always learning — currently deepening my knowledge of system design and applied ML
 
 ---
 
-### 📊 GitHub Activity & Statistics
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mulatumuler82-ui&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="Mulatu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulatumuler82-ui&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css&theme=dark" alt="Frontend skills" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mulatumuler82-ui&theme=dark&hide_border=true" width="97%" alt="GitHub Streak" />
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,py,java,mongodb,postgres,mysql&theme=dark" alt="Backend skills" />
+</p>
+
+**DevOps & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,ubuntu,git,vercel,vscode&theme=dark" alt="DevOps skills" />
 </p>
 
 ---
 
-### 📬 Connect & Contact
+## 🚀 Featured Projects
 
-* 📧 **Email:** [mulatumuler82@gmail.com](mailto:mulatumuler82@gmail.com)
-* 🌐 **GitHub:** [@mulatumuler82-ui](https://github.com/mulatumuler82-ui)
-* 📍 **Location:** Ethiopia
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/mulatumuler82-ui">Personal Engineering Portfolio</a></h3>
+      <p>Full-stack portfolio with a sleek dark-theme UI.</p>
+      <sub><code>React</code> · <code>TypeScript</code> · <code>Tailwind</code> · <code>Express</code> · <code>MongoDB</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏦 <a href="https://github.com/mulatumuler82-ui">Distributed Banking System</a></h3>
+      <p>Distributed architecture using stub-skeleton remote calls.</p>
+      <sub><code>Java RMI</code> · <code>Python RPC</code> · <code>Sockets</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/mulatumuler82-ui">AI Network Intrusion Detection</a></h3>
+      <p>Intelligent packet analysis for detecting network threats.</p>
+      <sub><code>Scapy</code> · <code>Scikit-learn</code> · <code>FastAPI</code> · <code>NSL-KDD</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/mulatumuler82-ui">Mobile Notes App</a></h3>
+      <p>Modern cross-platform note-taking application.</p>
+      <sub><code>React Native</code> · <code>Expo Router</code> · <code>TypeScript</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🖥️ <a href="https://github.com/mulatumuler82-ui">Virtualized Mini Data Center</a></h3>
+      <p>Server infrastructure with containerized hosting and managed storage.</p>
+      <sub><code>Ubuntu Server</code> · <code>Docker</code> · <code>MySQL</code> · <code>LVM</code> · <code>Cockpit</code></sub>
+    </td>
+  </tr>
+</table>
 
 ---
-<p align="center">
-  <i>"Driven by continuous learning, clean architecture, and building impactful software."</i>
-</p>
-**mulatumuler82-ui/mulatumuler82-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mulatumuler82-ui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulatumuler82-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=mulatumuler82-ui&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="mailto:mulatumuler82@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mulatumuler82@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/mulatumuler82-ui">
+  <img src="https://img.shields.io/badge/GitHub-mulatumuler82--ui-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<i>"Driven by continuous learning, clean architecture, and building impactful software."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
